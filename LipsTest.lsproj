@@ -1,0 +1,1171 @@
+{
+    "lens_id": "f8f285e1-4ebf-48fc-ba62-a975bb4a6d78",
+    "document_id": "0hIx0vMtrO-rQpEO5EXI",
+    "original_document_id": "0hIx0vMtrO-rQpEO5EXI",
+    "version": "2",
+    "lastChanged": "1548103943007",
+    "preview": "icon.png",
+    "isReadOnly": "false",
+    "studioVersion": {
+        "createdWith": {
+            "type": "Public",
+            "major": "1",
+            "minor": "7",
+            "patch": "1",
+            "build": "0"
+        },
+        "lastSavedWith": {
+            "type": "Public",
+            "major": "1",
+            "minor": "7",
+            "patch": "1",
+            "build": "0"
+        }
+    },
+    "view": {
+        "ResourceUiComponent": {
+            "collapsedList": [
+                [
+                    [
+                        "Default Textures"
+                    ],
+                    [
+                        "Default Textures",
+                        "Base"
+                    ],
+                    [
+                        "Default Textures",
+                        "Base_2"
+                    ],
+                    [
+                        "Default Textures",
+                        "MaterialParams"
+                    ],
+                    [
+                        "Default Textures",
+                        "Normal"
+                    ],
+                    [
+                        "Face Paint Template [REMOVE_ME]"
+                    ],
+                    [
+                        "Face Paint Template [REMOVE_ME]",
+                        "Bird",
+                        "bird"
+                    ],
+                    [
+                        "Face Paint Template [REMOVE_ME]",
+                        "Bird",
+                        "bird_cheeks"
+                    ],
+                    [
+                        "Face Paint Template [REMOVE_ME]",
+                        "Bird",
+                        "bird_lips_1"
+                    ],
+                    [
+                        "Face Paint Template [REMOVE_ME]",
+                        "Bird",
+                        "bird_lips_2"
+                    ],
+                    [
+                        "Face Paint Template [REMOVE_ME]",
+                        "Dripping"
+                    ],
+                    [
+                        "Face Paint Template [REMOVE_ME]",
+                        "Dripping",
+                        "dripping"
+                    ],
+                    [
+                        "Face Paint Template [REMOVE_ME]",
+                        "Dripping",
+                        "dripping_cheeks"
+                    ],
+                    [
+                        "Face Paint Template [REMOVE_ME]",
+                        "Dripping",
+                        "dripping_lips"
+                    ],
+                    [
+                        "Face Paint Template [REMOVE_ME]",
+                        "Flower",
+                        "flower_cheeks"
+                    ],
+                    [
+                        "Face Paint Template [REMOVE_ME]",
+                        "Flower",
+                        "flower_lips"
+                    ],
+                    [
+                        "Face Paint Template [REMOVE_ME]",
+                        "Flower",
+                        "flowers"
+                    ],
+                    [
+                        "Face Paint Template [REMOVE_ME]",
+                        "Koi",
+                        "koi"
+                    ],
+                    [
+                        "Face Paint Template [REMOVE_ME]",
+                        "Koi",
+                        "koi_cheeks"
+                    ],
+                    [
+                        "Face Paint Template [REMOVE_ME]",
+                        "Koi",
+                        "koi_lips"
+                    ],
+                    [
+                        "Face Paint Template [REMOVE_ME]",
+                        "Paint",
+                        "paint"
+                    ],
+                    [
+                        "Face Paint Template [REMOVE_ME]",
+                        "Paint",
+                        "paint_lips"
+                    ],
+                    [
+                        "Face Paint Template [REMOVE_ME]",
+                        "Swan"
+                    ],
+                    [
+                        "Face Paint Template [REMOVE_ME]",
+                        "Swan",
+                        "swan"
+                    ],
+                    [
+                        "Face Paint Template [REMOVE_ME]",
+                        "Swan",
+                        "swan_cheeks"
+                    ],
+                    [
+                        "Face Paint Template [REMOVE_ME]",
+                        "Swan",
+                        "swan_eye_color"
+                    ],
+                    [
+                        "Face Paint Template [REMOVE_ME]",
+                        "Swan",
+                        "swan_lips"
+                    ],
+                    [
+                        "Materials"
+                    ],
+                    [
+                        "Materials",
+                        "Hair Material"
+                    ],
+                    [
+                        "Meshes"
+                    ],
+                    [
+                        "Meshes",
+                        "Box"
+                    ],
+                    [
+                        "Portrait Hair Segmentation"
+                    ],
+                    [
+                        "Scripts",
+                        "Script_2"
+                    ],
+                    [
+                        "Scripts",
+                        "touchCollision"
+                    ],
+                    [
+                        "Textures"
+                    ],
+                    [
+                        "Textures",
+                        "Face Substitution Points"
+                    ],
+                    [
+                        "Textures",
+                        "Face Substitution Points",
+                        "Eye"
+                    ],
+                    [
+                        "Textures",
+                        "Face Substitution Points",
+                        "Full"
+                    ],
+                    [
+                        "Textures",
+                        "Face Substitution Points",
+                        "Lips"
+                    ],
+                    [
+                        "Textures",
+                        "Orthographic Camera Output"
+                    ],
+                    [
+                        "Textures",
+                        "circle-512"
+                    ]
+                ]
+            ]
+        },
+        "SceneTreeUiComponent": {
+            "collapsedList": [
+                [
+                    "1495032264252211:307",
+                    "1517441814990953:60249",
+                    "1518738368871047:5072",
+                    "1518738620434896:6325",
+                    "1518739920773388:14636",
+                    "1518740425092533:30109",
+                    "1518742391821707:46940",
+                    "1518819922774689:6051",
+                    "1518819930409093:6924",
+                    "1520544465201565:102906",
+                    "1521490875811835:53517",
+                    "1521491246967963:55784",
+                    "1521494175809770:9532",
+                    "1521494391227878:18381",
+                    "1521494580408207:33027",
+                    "1521495292005641:46725",
+                    "1521495518155367:60883",
+                    "1522715568286999:62089",
+                    "1522715685110476:86670",
+                    "1522715741066050:102946",
+                    "1522715758731286:105644",
+                    "1522715790065744:119842",
+                    "1542228922582072:49498"
+                ],
+                ""
+            ]
+        },
+        "MetaInfoUIComponent": {
+            "icon_hash": "8ccd910a39bf5544656a25f0ba2be30b",
+            "icon_path": "icon.png",
+            "hints": [
+                ""
+            ],
+            "lens": "Hair Colorer",
+            "camera": "2",
+            "lens_descriptors": ""
+        },
+        "PreviewUiComponent": {
+            "is_back_camera": "false",
+            "show_snap_ui": "true"
+        },
+        "InspectorUiComponent": {
+            "collapsedList": [
+                [
+                    "1518738355038666:4975",
+                    "1518810897835563:17108",
+                    "1518820769291880:4742",
+                    "1518827517865368:16589",
+                    "1518829714010749:22806",
+                    "1521488619528459:18364",
+                    "1521489603228781:38586",
+                    "1521489615677105:40162",
+                    "1521490042715772:45879",
+                    "1521657197245321:130044",
+                    "1521657247014955:132210",
+                    "1521689616150571:3805",
+                    "1522715354903623:54305",
+                    "1522715372577759:56331",
+                    "1522715469525743:59251",
+                    "1542227342505845:7033",
+                    "1548088835205273:20614"
+                ],
+                ""
+            ]
+        },
+        "LayerUiComponent": {
+            "colorMap": ""
+        }
+    },
+    "model": {
+        "ResourceManager": {
+            "list": [
+                {
+                    "resId": "1",
+                    "uid": "1:1",
+                    "name": "Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0",
+                    "type": "1",
+                    "subtype": "1"
+                },
+                {
+                    "resId": "2",
+                    "uid": "2:2",
+                    "name": "Camera Input",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0",
+                    "type": "1",
+                    "subtype": "3"
+                },
+                {
+                    "resId": "8",
+                    "uid": "1518738344742791:4932",
+                    "name": "\/Resources\/Resource8.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "18",
+                    "uid": "1518738651839670:6580",
+                    "name": "\/Resources\/Resource18.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "19",
+                    "uid": "1518738651915459:6593",
+                    "name": "\/Resources\/Resource19.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "20",
+                    "uid": "1518738651954089:6608",
+                    "name": "\/Resources\/Resource20.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "21",
+                    "uid": "1518738652009963:6623",
+                    "name": "\/Resources\/Resource21.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "30",
+                    "uid": "1518739136432964:9185",
+                    "name": "\/Resources\/Resource30.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "31",
+                    "uid": "1518739185435735:9278",
+                    "name": "\/Resources\/Resource31.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "34",
+                    "uid": "1518739899277697:14617",
+                    "name": "\/Resources\/Resource34.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "40",
+                    "uid": "1518740216803673:28876",
+                    "name": "\/Resources\/Resource40.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "41",
+                    "uid": "1518740262107333:29196",
+                    "name": "\/Resources\/Resource41.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "47",
+                    "uid": "1518740799102817:30820",
+                    "name": "\/Resources\/Resource47.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "51",
+                    "uid": "1518741129529720:45711",
+                    "name": "\/Resources\/Resource51.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "52",
+                    "uid": "1518741163654405:45773",
+                    "name": "\/Resources\/Resource52.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "53",
+                    "uid": "1518741180955038:45785",
+                    "name": "\/Resources\/Resource53.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "62",
+                    "uid": "1518742446175688:47885",
+                    "name": "\/Resources\/Resource62.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "63",
+                    "uid": "1518742519335139:48363",
+                    "name": "\/Resources\/Resource63.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "64",
+                    "uid": "1518742580946700:48680",
+                    "name": "\/Resources\/Resource64.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "72",
+                    "uid": "1518811229378439:22196",
+                    "name": "\/Resources\/Resource72.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "129",
+                    "uid": "1521495337531062:53457",
+                    "name": "\/Resources\/Resource129.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "137",
+                    "uid": "1521592506041362:29488",
+                    "name": "\/Resources\/Resource137.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "138",
+                    "uid": "1521592506123858:29501",
+                    "name": "\/Resources\/Resource138.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "139",
+                    "uid": "1521592506217607:29514",
+                    "name": "\/Resources\/Resource139.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "184",
+                    "uid": "1538073221742967:377753",
+                    "name": "\/Resources\/Resource184",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "187",
+                    "uid": "1538073221844127:377790",
+                    "name": "\/Resources\/Resource187.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "3",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "188",
+                    "uid": "1538073221870404:377799",
+                    "name": "\/Resources\/Resource188.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "3",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "221",
+                    "uid": "1542296813871216:121756",
+                    "name": "\/Resources\/Resource221.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "222",
+                    "uid": "1542296924344842:124439",
+                    "name": "\/Resources\/Resource222.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "223",
+                    "uid": "1543613756309004:28003",
+                    "name": "\/Resources\/Resource223",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "224",
+                    "uid": "1543613756339065:28015",
+                    "name": "\/Resources\/Resource224.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "225",
+                    "uid": "1543613756375235:28027",
+                    "name": "\/Resources\/Resource225.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "228",
+                    "uid": "1547846317033988:89715",
+                    "name": "\/Resources\/Resource228.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "234",
+                    "uid": "1547847988882095:111298",
+                    "name": "Portrait Hair Segmentation",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0",
+                    "type": "1",
+                    "subtype": "11"
+                },
+                {
+                    "resId": "237",
+                    "uid": "1548088328883232:4314",
+                    "name": "\/Resources\/Resource237.png",
+                    "sourceFilePath": "\/Users\/admin\/Downloads\/circle-512.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "238",
+                    "uid": "1548088589538174:14186",
+                    "name": "\/Resources\/Resource238.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "241",
+                    "uid": "1548092024388136:124170",
+                    "name": "\/system\/\/SegmentationModels\/PortraitSegmentation\/",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "2",
+                    "type": "16",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "242",
+                    "uid": "1548092279856265:145283",
+                    "name": "Orthographic Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0",
+                    "type": "1",
+                    "subtype": "1"
+                },
+                {
+                    "resId": "243",
+                    "uid": "1548092279918667:145360",
+                    "name": "\/Resources\/Resource243",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "244",
+                    "uid": "1548092279919527:145372",
+                    "name": "Text",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "2",
+                    "type": "1",
+                    "subtype": "8"
+                },
+                {
+                    "resId": "250",
+                    "uid": "1548103839193659:10542",
+                    "name": "\/Resources\/Resource250.mesh",
+                    "sourceFilePath": "\/Applications\/Lens Studio.app\/Contents\/MacOS\/\/..\/Resources\/Studio3DResources.bundle\/\/meshes\/Box.mesh",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "3",
+                    "subtype": "0"
+                }
+            ]
+        },
+        "InspectorComponent": {
+            "Component": {
+                "FaceStretchVisual": {
+                    "uidsToFeatureNamesWithIntensity": ""
+                }
+            }
+        },
+        "RenderOrderComponent": {
+            "autoRenderOrder": {
+                "0": "1517441814990953:60249",
+                "1": "1517441814991005:60252",
+                "2": "1517441814991119:60258",
+                "3": "1518738355034989:4972",
+                "4": "1520544465201565:102906",
+                "5": "1521689616150571:3805",
+                "6": "1542227553096503:18064",
+                "7": "1542296720839485:118834",
+                "8": "1547848206015191:113975",
+                "9": "1548092279849468:145188",
+                "10": "1548092279856465:145292",
+                "11": "1548092279856906:145295"
+            }
+        },
+        "LayerComponent": {
+            "nextLayerId": "2",
+            "showOrthographicLayer": "true",
+            "layersInfo": [
+                {
+                    "layerId": "0",
+                    "layerName": "Default Layer",
+                    "layerMask": "1"
+                },
+                {
+                    "layerId": "1",
+                    "layerName": "Orthographic Layer",
+                    "layerMask": "1048576"
+                }
+            ]
+        },
+        "WorldComponent": {
+            "sceneFile": "scene.scn"
+        }
+    },
+    "controller": {
+        "ResourceController": {
+            "tree": {
+                "name": "Root",
+                "groups": [
+                    {
+                        "name": "Textures",
+                        "groups": [
+                            {
+                                "name": "Face Substitution Points",
+                                "groups": "",
+                                "resources": [
+                                    {
+                                        "name": "Eye",
+                                        "resourceId": "137",
+                                        "extension": "png"
+                                    },
+                                    {
+                                        "name": "Full",
+                                        "resourceId": "138",
+                                        "extension": "png"
+                                    },
+                                    {
+                                        "name": "Lips",
+                                        "resourceId": "139",
+                                        "extension": "png"
+                                    }
+                                ]
+                            }
+                        ],
+                        "resources": [
+                            {
+                                "name": "Camera Output",
+                                "resourceId": "1",
+                                "extension": ""
+                            },
+                            {
+                                "name": "Device Camera Texture",
+                                "resourceId": "2",
+                                "extension": ""
+                            },
+                            {
+                                "name": "circle-512",
+                                "resourceId": "237",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "Orthographic Camera Output",
+                                "resourceId": "242",
+                                "extension": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Face Paint Template [REMOVE_ME]",
+                        "groups": [
+                            {
+                                "name": "Paint",
+                                "groups": "",
+                                "resources": [
+                                    {
+                                        "name": "paint",
+                                        "resourceId": "8",
+                                        "extension": "png"
+                                    },
+                                    {
+                                        "name": "paint_lips",
+                                        "resourceId": "72",
+                                        "extension": "png"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Koi",
+                                "groups": "",
+                                "resources": [
+                                    {
+                                        "name": "koi",
+                                        "resourceId": "30",
+                                        "extension": "png"
+                                    },
+                                    {
+                                        "name": "koi_lips",
+                                        "resourceId": "31",
+                                        "extension": "png"
+                                    },
+                                    {
+                                        "name": "koi_cheeks",
+                                        "resourceId": "129",
+                                        "extension": "png"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Flower",
+                                "groups": "",
+                                "resources": [
+                                    {
+                                        "name": "flowers",
+                                        "resourceId": "34",
+                                        "extension": "png"
+                                    },
+                                    {
+                                        "name": "flower_cheeks",
+                                        "resourceId": "40",
+                                        "extension": "png"
+                                    },
+                                    {
+                                        "name": "flower_lips",
+                                        "resourceId": "41",
+                                        "extension": "png"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Bird",
+                                "groups": "",
+                                "resources": [
+                                    {
+                                        "name": "bird",
+                                        "resourceId": "47",
+                                        "extension": "png"
+                                    },
+                                    {
+                                        "name": "bird_cheeks",
+                                        "resourceId": "51",
+                                        "extension": "png"
+                                    },
+                                    {
+                                        "name": "bird_lips_1",
+                                        "resourceId": "52",
+                                        "extension": "png"
+                                    },
+                                    {
+                                        "name": "bird_lips_2",
+                                        "resourceId": "53",
+                                        "extension": "png"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Dripping",
+                                "groups": "",
+                                "resources": [
+                                    {
+                                        "name": "dripping",
+                                        "resourceId": "62",
+                                        "extension": "png"
+                                    },
+                                    {
+                                        "name": "dripping_lips",
+                                        "resourceId": "63",
+                                        "extension": "png"
+                                    },
+                                    {
+                                        "name": "dripping_cheeks",
+                                        "resourceId": "64",
+                                        "extension": "png"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Swan",
+                                "groups": "",
+                                "resources": [
+                                    {
+                                        "name": "swan",
+                                        "resourceId": "18",
+                                        "extension": "png"
+                                    },
+                                    {
+                                        "name": "swan_cheeks",
+                                        "resourceId": "19",
+                                        "extension": "png"
+                                    },
+                                    {
+                                        "name": "swan_eye_color",
+                                        "resourceId": "20",
+                                        "extension": "png"
+                                    },
+                                    {
+                                        "name": "swan_lips",
+                                        "resourceId": "21",
+                                        "extension": "png"
+                                    }
+                                ]
+                            }
+                        ],
+                        "resources": ""
+                    },
+                    {
+                        "name": "Default Textures",
+                        "groups": "",
+                        "resources": [
+                            {
+                                "name": "Base",
+                                "resourceId": "221",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "Base_2",
+                                "resourceId": "224",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "Normal",
+                                "resourceId": "225",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "MaterialParams",
+                                "resourceId": "228",
+                                "extension": "png"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Scripts",
+                        "groups": "",
+                        "resources": [
+                            {
+                                "name": "touchCollision",
+                                "resourceId": "238",
+                                "extension": "js"
+                            },
+                            {
+                                "name": "Script_2",
+                                "resourceId": "222",
+                                "extension": "js"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Materials",
+                        "groups": "",
+                        "resources": [
+                            {
+                                "name": "Hair Material",
+                                "resourceId": "223",
+                                "extension": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Meshes",
+                        "groups": "",
+                        "resources": [
+                            {
+                                "name": "Box",
+                                "resourceId": "250",
+                                "extension": "mesh"
+                            }
+                        ]
+                    }
+                ],
+                "resources": [
+                    {
+                        "name": "Portrait Hair Segmentation",
+                        "resourceId": "234",
+                        "extension": ""
+                    }
+                ]
+            },
+            "publicAssets": [
+                {
+                    "id": "8",
+                    "path": "Face Paint Template [REMOVE_ME]\/Paint\/paint.png"
+                },
+                {
+                    "id": "18",
+                    "path": "Face Paint Template [REMOVE_ME]\/Swan\/swan.png"
+                },
+                {
+                    "id": "19",
+                    "path": "Face Paint Template [REMOVE_ME]\/Swan\/swan_cheeks.png"
+                },
+                {
+                    "id": "20",
+                    "path": "Face Paint Template [REMOVE_ME]\/Swan\/swan_eye_color.png"
+                },
+                {
+                    "id": "21",
+                    "path": "Face Paint Template [REMOVE_ME]\/Swan\/swan_lips.png"
+                },
+                {
+                    "id": "30",
+                    "path": "Face Paint Template [REMOVE_ME]\/Koi\/koi.png"
+                },
+                {
+                    "id": "31",
+                    "path": "Face Paint Template [REMOVE_ME]\/Koi\/koi_lips.png"
+                },
+                {
+                    "id": "34",
+                    "path": "Face Paint Template [REMOVE_ME]\/Flower\/flowers.png"
+                },
+                {
+                    "id": "40",
+                    "path": "Face Paint Template [REMOVE_ME]\/Flower\/flower_cheeks.png"
+                },
+                {
+                    "id": "41",
+                    "path": "Face Paint Template [REMOVE_ME]\/Flower\/flower_lips.png"
+                },
+                {
+                    "id": "47",
+                    "path": "Face Paint Template [REMOVE_ME]\/Bird\/bird.png"
+                },
+                {
+                    "id": "51",
+                    "path": "Face Paint Template [REMOVE_ME]\/Bird\/bird_cheeks.png"
+                },
+                {
+                    "id": "52",
+                    "path": "Face Paint Template [REMOVE_ME]\/Bird\/bird_lips_1.png"
+                },
+                {
+                    "id": "53",
+                    "path": "Face Paint Template [REMOVE_ME]\/Bird\/bird_lips_2.png"
+                },
+                {
+                    "id": "62",
+                    "path": "Face Paint Template [REMOVE_ME]\/Dripping\/dripping.png"
+                },
+                {
+                    "id": "63",
+                    "path": "Face Paint Template [REMOVE_ME]\/Dripping\/dripping_lips.png"
+                },
+                {
+                    "id": "64",
+                    "path": "Face Paint Template [REMOVE_ME]\/Dripping\/dripping_cheeks.png"
+                },
+                {
+                    "id": "72",
+                    "path": "Face Paint Template [REMOVE_ME]\/Paint\/paint_lips.png"
+                },
+                {
+                    "id": "129",
+                    "path": "Face Paint Template [REMOVE_ME]\/Koi\/koi_cheeks.png"
+                },
+                {
+                    "id": "137",
+                    "path": "Textures\/Face Substitution Points\/Eye.png"
+                },
+                {
+                    "id": "138",
+                    "path": "Textures\/Face Substitution Points\/Full.png"
+                },
+                {
+                    "id": "139",
+                    "path": "Textures\/Face Substitution Points\/Lips.png"
+                },
+                {
+                    "id": "221",
+                    "path": "Default Textures\/Base.png"
+                },
+                {
+                    "id": "222",
+                    "path": "Scripts\/Script_2.js"
+                },
+                {
+                    "id": "224",
+                    "path": "Default Textures\/Base_2.png"
+                },
+                {
+                    "id": "225",
+                    "path": "Default Textures\/Normal.png"
+                },
+                {
+                    "id": "228",
+                    "path": "Default Textures\/MaterialParams.png"
+                },
+                {
+                    "id": "237",
+                    "path": "Textures\/circle-512.png"
+                },
+                {
+                    "id": "238",
+                    "path": "Scripts\/touchCollision.js"
+                },
+                {
+                    "id": "250",
+                    "path": "Meshes\/Box.mesh"
+                }
+            ]
+        },
+        "InspectorController": {
+            "selection": {
+                "objects": [
+                    "1548092279856906:145295"
+                ]
+            }
+        },
+        "EffectsController": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "10": "",
+            "11": "",
+            "12": "",
+            "13": "",
+            "14": "",
+            "15": "",
+            "16": ""
+        },
+        "ObjectPrefabController": {
+            "state": {
+                "objectToInfo": ""
+            },
+            "importInfo": ""
+        }
+    }
+}
