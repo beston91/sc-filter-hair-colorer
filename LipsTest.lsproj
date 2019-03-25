@@ -3,7 +3,7 @@
     "document_id": "0hIx0vMtrO-rQpEO5EXI",
     "original_document_id": "0hIx0vMtrO-rQpEO5EXI",
     "version": "2",
-    "lastChanged": "1548103943007",
+    "lastChanged": "1553531845673",
     "preview": "icon.png",
     "isReadOnly": "false",
     "studioVersion": {
@@ -46,115 +46,6 @@
                         "Normal"
                     ],
                     [
-                        "Face Paint Template [REMOVE_ME]"
-                    ],
-                    [
-                        "Face Paint Template [REMOVE_ME]",
-                        "Bird",
-                        "bird"
-                    ],
-                    [
-                        "Face Paint Template [REMOVE_ME]",
-                        "Bird",
-                        "bird_cheeks"
-                    ],
-                    [
-                        "Face Paint Template [REMOVE_ME]",
-                        "Bird",
-                        "bird_lips_1"
-                    ],
-                    [
-                        "Face Paint Template [REMOVE_ME]",
-                        "Bird",
-                        "bird_lips_2"
-                    ],
-                    [
-                        "Face Paint Template [REMOVE_ME]",
-                        "Dripping"
-                    ],
-                    [
-                        "Face Paint Template [REMOVE_ME]",
-                        "Dripping",
-                        "dripping"
-                    ],
-                    [
-                        "Face Paint Template [REMOVE_ME]",
-                        "Dripping",
-                        "dripping_cheeks"
-                    ],
-                    [
-                        "Face Paint Template [REMOVE_ME]",
-                        "Dripping",
-                        "dripping_lips"
-                    ],
-                    [
-                        "Face Paint Template [REMOVE_ME]",
-                        "Flower",
-                        "flower_cheeks"
-                    ],
-                    [
-                        "Face Paint Template [REMOVE_ME]",
-                        "Flower",
-                        "flower_lips"
-                    ],
-                    [
-                        "Face Paint Template [REMOVE_ME]",
-                        "Flower",
-                        "flowers"
-                    ],
-                    [
-                        "Face Paint Template [REMOVE_ME]",
-                        "Koi",
-                        "koi"
-                    ],
-                    [
-                        "Face Paint Template [REMOVE_ME]",
-                        "Koi",
-                        "koi_cheeks"
-                    ],
-                    [
-                        "Face Paint Template [REMOVE_ME]",
-                        "Koi",
-                        "koi_lips"
-                    ],
-                    [
-                        "Face Paint Template [REMOVE_ME]",
-                        "Paint",
-                        "paint"
-                    ],
-                    [
-                        "Face Paint Template [REMOVE_ME]",
-                        "Paint",
-                        "paint_lips"
-                    ],
-                    [
-                        "Face Paint Template [REMOVE_ME]",
-                        "Swan"
-                    ],
-                    [
-                        "Face Paint Template [REMOVE_ME]",
-                        "Swan",
-                        "swan"
-                    ],
-                    [
-                        "Face Paint Template [REMOVE_ME]",
-                        "Swan",
-                        "swan_cheeks"
-                    ],
-                    [
-                        "Face Paint Template [REMOVE_ME]",
-                        "Swan",
-                        "swan_eye_color"
-                    ],
-                    [
-                        "Face Paint Template [REMOVE_ME]",
-                        "Swan",
-                        "swan_lips"
-                    ],
-                    [
-                        "Materials"
-                    ],
-                    [
                         "Materials",
                         "Hair Material"
                     ],
@@ -170,14 +61,15 @@
                     ],
                     [
                         "Scripts",
-                        "Script_2"
+                        "hintController"
+                    ],
+                    [
+                        "Scripts",
+                        "init"
                     ],
                     [
                         "Scripts",
                         "touchCollision"
-                    ],
-                    [
-                        "Textures"
                     ],
                     [
                         "Textures",
@@ -234,7 +126,9 @@
                     "1522715741066050:102946",
                     "1522715758731286:105644",
                     "1522715790065744:119842",
-                    "1542228922582072:49498"
+                    "1542228922582072:49498",
+                    "1548107961474310:28141",
+                    "1548109298459229:71405"
                 ],
                 ""
             ]
@@ -272,13 +166,27 @@
                     "1522715372577759:56331",
                     "1522715469525743:59251",
                     "1542227342505845:7033",
-                    "1548088835205273:20614"
+                    "1548088835205273:20614",
+                    "1548108077925516:31339",
+                    "1553531820918042:166080"
                 ],
-                ""
+                [
+                    "1548108077925516:31339",
+                    "1553531820918042:166080"
+                ]
             ]
         },
         "LayerUiComponent": {
-            "colorMap": ""
+            "colorMap": [
+                {
+                    "k": "3",
+                    "v": "0"
+                },
+                {
+                    "k": "4",
+                    "v": "1"
+                }
+            ]
         }
     },
     "model": {
@@ -303,196 +211,6 @@
                     "flags": "0",
                     "type": "1",
                     "subtype": "3"
-                },
-                {
-                    "resId": "8",
-                    "uid": "1518738344742791:4932",
-                    "name": "\/Resources\/Resource8.png",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "1",
-                    "type": "1",
-                    "subtype": "0"
-                },
-                {
-                    "resId": "18",
-                    "uid": "1518738651839670:6580",
-                    "name": "\/Resources\/Resource18.png",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "1",
-                    "type": "1",
-                    "subtype": "0"
-                },
-                {
-                    "resId": "19",
-                    "uid": "1518738651915459:6593",
-                    "name": "\/Resources\/Resource19.png",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "1",
-                    "type": "1",
-                    "subtype": "0"
-                },
-                {
-                    "resId": "20",
-                    "uid": "1518738651954089:6608",
-                    "name": "\/Resources\/Resource20.png",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "1",
-                    "type": "1",
-                    "subtype": "0"
-                },
-                {
-                    "resId": "21",
-                    "uid": "1518738652009963:6623",
-                    "name": "\/Resources\/Resource21.png",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "1",
-                    "type": "1",
-                    "subtype": "0"
-                },
-                {
-                    "resId": "30",
-                    "uid": "1518739136432964:9185",
-                    "name": "\/Resources\/Resource30.png",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "1",
-                    "type": "1",
-                    "subtype": "0"
-                },
-                {
-                    "resId": "31",
-                    "uid": "1518739185435735:9278",
-                    "name": "\/Resources\/Resource31.png",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "1",
-                    "type": "1",
-                    "subtype": "0"
-                },
-                {
-                    "resId": "34",
-                    "uid": "1518739899277697:14617",
-                    "name": "\/Resources\/Resource34.png",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "1",
-                    "type": "1",
-                    "subtype": "0"
-                },
-                {
-                    "resId": "40",
-                    "uid": "1518740216803673:28876",
-                    "name": "\/Resources\/Resource40.png",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "1",
-                    "type": "1",
-                    "subtype": "0"
-                },
-                {
-                    "resId": "41",
-                    "uid": "1518740262107333:29196",
-                    "name": "\/Resources\/Resource41.png",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "1",
-                    "type": "1",
-                    "subtype": "0"
-                },
-                {
-                    "resId": "47",
-                    "uid": "1518740799102817:30820",
-                    "name": "\/Resources\/Resource47.png",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "1",
-                    "type": "1",
-                    "subtype": "0"
-                },
-                {
-                    "resId": "51",
-                    "uid": "1518741129529720:45711",
-                    "name": "\/Resources\/Resource51.png",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "1",
-                    "type": "1",
-                    "subtype": "0"
-                },
-                {
-                    "resId": "52",
-                    "uid": "1518741163654405:45773",
-                    "name": "\/Resources\/Resource52.png",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "1",
-                    "type": "1",
-                    "subtype": "0"
-                },
-                {
-                    "resId": "53",
-                    "uid": "1518741180955038:45785",
-                    "name": "\/Resources\/Resource53.png",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "1",
-                    "type": "1",
-                    "subtype": "0"
-                },
-                {
-                    "resId": "62",
-                    "uid": "1518742446175688:47885",
-                    "name": "\/Resources\/Resource62.png",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "1",
-                    "type": "1",
-                    "subtype": "0"
-                },
-                {
-                    "resId": "63",
-                    "uid": "1518742519335139:48363",
-                    "name": "\/Resources\/Resource63.png",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "1",
-                    "type": "1",
-                    "subtype": "0"
-                },
-                {
-                    "resId": "64",
-                    "uid": "1518742580946700:48680",
-                    "name": "\/Resources\/Resource64.png",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "1",
-                    "type": "1",
-                    "subtype": "0"
-                },
-                {
-                    "resId": "72",
-                    "uid": "1518811229378439:22196",
-                    "name": "\/Resources\/Resource72.png",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "1",
-                    "type": "1",
-                    "subtype": "0"
-                },
-                {
-                    "resId": "129",
-                    "uid": "1521495337531062:53457",
-                    "name": "\/Resources\/Resource129.png",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "1",
-                    "type": "1",
-                    "subtype": "0"
                 },
                 {
                     "resId": "137",
@@ -525,40 +243,6 @@
                     "subtype": "0"
                 },
                 {
-                    "resId": "184",
-                    "uid": "1538073221742967:377753",
-                    "name": "\/Resources\/Resource184",
-                    "sourceFilePath": "",
-                    "additionalProperties": {
-                        "pass_source": [
-                            ""
-                        ]
-                    },
-                    "flags": "3",
-                    "type": "2",
-                    "subtype": "0"
-                },
-                {
-                    "resId": "187",
-                    "uid": "1538073221844127:377790",
-                    "name": "\/Resources\/Resource187.png",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "3",
-                    "type": "1",
-                    "subtype": "0"
-                },
-                {
-                    "resId": "188",
-                    "uid": "1538073221870404:377799",
-                    "name": "\/Resources\/Resource188.jpg",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "3",
-                    "type": "1",
-                    "subtype": "0"
-                },
-                {
                     "resId": "221",
                     "uid": "1542296813871216:121756",
                     "name": "\/Resources\/Resource221.png",
@@ -566,16 +250,6 @@
                     "additionalProperties": "",
                     "flags": "1",
                     "type": "1",
-                    "subtype": "0"
-                },
-                {
-                    "resId": "222",
-                    "uid": "1542296924344842:124439",
-                    "name": "\/Resources\/Resource222.js",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "1",
-                    "type": "4",
                     "subtype": "0"
                 },
                 {
@@ -663,8 +337,18 @@
                     "subtype": "0"
                 },
                 {
-                    "resId": "242",
-                    "uid": "1548092279856265:145283",
+                    "resId": "250",
+                    "uid": "1548103839193659:10542",
+                    "name": "\/Resources\/Resource250.mesh",
+                    "sourceFilePath": "\/Applications\/Lens Studio.app\/Contents\/MacOS\/\/..\/Resources\/Studio3DResources.bundle\/\/meshes\/Box.mesh",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "266",
+                    "uid": "1553529329371370:73038",
                     "name": "Orthographic Camera Output",
                     "sourceFilePath": "",
                     "additionalProperties": "",
@@ -673,9 +357,19 @@
                     "subtype": "1"
                 },
                 {
-                    "resId": "243",
-                    "uid": "1548092279918667:145360",
-                    "name": "\/Resources\/Resource243",
+                    "resId": "269",
+                    "uid": "1553529391646331:79165",
+                    "name": "\/Resources\/Resource269.js",
+                    "sourceFilePath": "\/Users\/admin\/git\/Snapchat\/MNY_sc\/sc_ar_template_master\/Public\/Scripts\/hintController.js",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "270",
+                    "uid": "1553529673062044:88393",
+                    "name": "\/Resources\/Resource270",
                     "sourceFilePath": "",
                     "additionalProperties": {
                         "pass_source": [
@@ -687,8 +381,8 @@
                     "subtype": "0"
                 },
                 {
-                    "resId": "244",
-                    "uid": "1548092279919527:145372",
+                    "resId": "271",
+                    "uid": "1553529673062625:88405",
                     "name": "Text",
                     "sourceFilePath": "",
                     "additionalProperties": "",
@@ -697,13 +391,167 @@
                     "subtype": "8"
                 },
                 {
-                    "resId": "250",
-                    "uid": "1548103839193659:10542",
-                    "name": "\/Resources\/Resource250.mesh",
-                    "sourceFilePath": "\/Applications\/Lens Studio.app\/Contents\/MacOS\/\/..\/Resources\/Studio3DResources.bundle\/\/meshes\/Box.mesh",
+                    "resId": "272",
+                    "uid": "1553529873012536:99622",
+                    "name": "\/Resources\/Resource272.js",
+                    "sourceFilePath": "\/Users\/admin\/git\/Snapchat\/MNY_sc\/sc_ar_template_master\/Public\/Scripts\/init.js",
                     "additionalProperties": "",
                     "flags": "1",
-                    "type": "3",
+                    "type": "4",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "273",
+                    "uid": "1553530444955758:110432",
+                    "name": "\/Resources\/Resource270",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "274",
+                    "uid": "1553530444956025:110444",
+                    "name": "Text",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "2",
+                    "type": "1",
+                    "subtype": "8"
+                },
+                {
+                    "resId": "275",
+                    "uid": "1553530628367126:120087",
+                    "name": "\/Resources\/Resource270",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "276",
+                    "uid": "1553530628367367:120099",
+                    "name": "Text",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "2",
+                    "type": "1",
+                    "subtype": "8"
+                },
+                {
+                    "resId": "277",
+                    "uid": "1553531090087199:138552",
+                    "name": "\/Resources\/Resource270",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "278",
+                    "uid": "1553531090087457:138564",
+                    "name": "Text",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "2",
+                    "type": "1",
+                    "subtype": "8"
+                },
+                {
+                    "resId": "279",
+                    "uid": "1553531733186464:148155",
+                    "name": "\/Resources\/Resource270",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "280",
+                    "uid": "1553531733187086:148167",
+                    "name": "Text",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "2",
+                    "type": "1",
+                    "subtype": "8"
+                },
+                {
+                    "resId": "281",
+                    "uid": "1553531759983225:156157",
+                    "name": "\/Resources\/Resource270",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "282",
+                    "uid": "1553531759983472:156169",
+                    "name": "Text",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "2",
+                    "type": "1",
+                    "subtype": "8"
+                },
+                {
+                    "resId": "283",
+                    "uid": "1553531820972967:166091",
+                    "name": "\/Resources\/Resource283",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            "\/Users\/mykhailobabenko\/Desktop\/retouch.glsl"
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "286",
+                    "uid": "1553531821044252:166128",
+                    "name": "\/Resources\/Resource286.png",
+                    "sourceFilePath": "\/var\/folders\/c1\/6sj770vn6wg2w7w8rhgnvgh40000gn\/T\/Lens Studio-hQxqdm\/system\/lookup.png",
+                    "additionalProperties": "",
+                    "flags": "3",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "287",
+                    "uid": "1553531821046502:166137",
+                    "name": "\/Resources\/Resource287.jpg",
+                    "sourceFilePath": "\/var\/folders\/c1\/6sj770vn6wg2w7w8rhgnvgh40000gn\/T\/Lens Studio-hQxqdm\/system\/retouch_mask.jpg",
+                    "additionalProperties": "",
+                    "flags": "3",
+                    "type": "1",
                     "subtype": "0"
                 }
             ]
@@ -721,18 +569,21 @@
                 "1": "1517441814991005:60252",
                 "2": "1517441814991119:60258",
                 "3": "1518738355034989:4972",
-                "4": "1520544465201565:102906",
-                "5": "1521689616150571:3805",
-                "6": "1542227553096503:18064",
-                "7": "1542296720839485:118834",
-                "8": "1547848206015191:113975",
-                "9": "1548092279849468:145188",
-                "10": "1548092279856465:145292",
-                "11": "1548092279856906:145295"
+                "4": "1542296720839485:118834",
+                "5": "1547848206015191:113975",
+                "6": "1553529329366339:72943",
+                "7": "1553529329371588:73047",
+                "8": "1553529673049708:88328",
+                "9": "1553530444955616:110418",
+                "10": "1553530628366990:120073",
+                "11": "1553531090087106:138542",
+                "12": "1553531733186096:148141",
+                "13": "1553531759983099:156143",
+                "14": "1553531820918042:166080"
             }
         },
         "LayerComponent": {
-            "nextLayerId": "2",
+            "nextLayerId": "5",
             "showOrthographicLayer": "true",
             "layersInfo": [
                 {
@@ -744,6 +595,16 @@
                     "layerId": "1",
                     "layerName": "Orthographic Layer",
                     "layerMask": "1048576"
+                },
+                {
+                    "layerId": "3",
+                    "layerName": "main ",
+                    "layerMask": "2"
+                },
+                {
+                    "layerId": "4",
+                    "layerName": "secondary",
+                    "layerMask": "4"
                 }
             ]
         },
@@ -752,6 +613,36 @@
         }
     },
     "controller": {
+        "InspectorController": {
+            "selection": {
+                "objects": [
+                    "1553531820918042:166080"
+                ]
+            }
+        },
+        "EffectsController": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "10": "",
+            "11": "",
+            "12": "",
+            "13": "",
+            "14": "",
+            "15": "",
+            "16": ""
+        },
+        "ObjectPrefabController": {
+            "state": {
+                "objectToInfo": ""
+            },
+            "importInfo": ""
+        },
         "ResourceController": {
             "tree": {
                 "name": "Root",
@@ -799,147 +690,10 @@
                             },
                             {
                                 "name": "Orthographic Camera Output",
-                                "resourceId": "242",
+                                "resourceId": "266",
                                 "extension": ""
                             }
                         ]
-                    },
-                    {
-                        "name": "Face Paint Template [REMOVE_ME]",
-                        "groups": [
-                            {
-                                "name": "Paint",
-                                "groups": "",
-                                "resources": [
-                                    {
-                                        "name": "paint",
-                                        "resourceId": "8",
-                                        "extension": "png"
-                                    },
-                                    {
-                                        "name": "paint_lips",
-                                        "resourceId": "72",
-                                        "extension": "png"
-                                    }
-                                ]
-                            },
-                            {
-                                "name": "Koi",
-                                "groups": "",
-                                "resources": [
-                                    {
-                                        "name": "koi",
-                                        "resourceId": "30",
-                                        "extension": "png"
-                                    },
-                                    {
-                                        "name": "koi_lips",
-                                        "resourceId": "31",
-                                        "extension": "png"
-                                    },
-                                    {
-                                        "name": "koi_cheeks",
-                                        "resourceId": "129",
-                                        "extension": "png"
-                                    }
-                                ]
-                            },
-                            {
-                                "name": "Flower",
-                                "groups": "",
-                                "resources": [
-                                    {
-                                        "name": "flowers",
-                                        "resourceId": "34",
-                                        "extension": "png"
-                                    },
-                                    {
-                                        "name": "flower_cheeks",
-                                        "resourceId": "40",
-                                        "extension": "png"
-                                    },
-                                    {
-                                        "name": "flower_lips",
-                                        "resourceId": "41",
-                                        "extension": "png"
-                                    }
-                                ]
-                            },
-                            {
-                                "name": "Bird",
-                                "groups": "",
-                                "resources": [
-                                    {
-                                        "name": "bird",
-                                        "resourceId": "47",
-                                        "extension": "png"
-                                    },
-                                    {
-                                        "name": "bird_cheeks",
-                                        "resourceId": "51",
-                                        "extension": "png"
-                                    },
-                                    {
-                                        "name": "bird_lips_1",
-                                        "resourceId": "52",
-                                        "extension": "png"
-                                    },
-                                    {
-                                        "name": "bird_lips_2",
-                                        "resourceId": "53",
-                                        "extension": "png"
-                                    }
-                                ]
-                            },
-                            {
-                                "name": "Dripping",
-                                "groups": "",
-                                "resources": [
-                                    {
-                                        "name": "dripping",
-                                        "resourceId": "62",
-                                        "extension": "png"
-                                    },
-                                    {
-                                        "name": "dripping_lips",
-                                        "resourceId": "63",
-                                        "extension": "png"
-                                    },
-                                    {
-                                        "name": "dripping_cheeks",
-                                        "resourceId": "64",
-                                        "extension": "png"
-                                    }
-                                ]
-                            },
-                            {
-                                "name": "Swan",
-                                "groups": "",
-                                "resources": [
-                                    {
-                                        "name": "swan",
-                                        "resourceId": "18",
-                                        "extension": "png"
-                                    },
-                                    {
-                                        "name": "swan_cheeks",
-                                        "resourceId": "19",
-                                        "extension": "png"
-                                    },
-                                    {
-                                        "name": "swan_eye_color",
-                                        "resourceId": "20",
-                                        "extension": "png"
-                                    },
-                                    {
-                                        "name": "swan_lips",
-                                        "resourceId": "21",
-                                        "extension": "png"
-                                    }
-                                ]
-                            }
-                        ],
-                        "resources": ""
                     },
                     {
                         "name": "Default Textures",
@@ -977,8 +731,13 @@
                                 "extension": "js"
                             },
                             {
-                                "name": "Script_2",
-                                "resourceId": "222",
+                                "name": "hintController",
+                                "resourceId": "269",
+                                "extension": "js"
+                            },
+                            {
+                                "name": "init",
+                                "resourceId": "272",
                                 "extension": "js"
                             }
                         ]
@@ -1016,82 +775,6 @@
             },
             "publicAssets": [
                 {
-                    "id": "8",
-                    "path": "Face Paint Template [REMOVE_ME]\/Paint\/paint.png"
-                },
-                {
-                    "id": "18",
-                    "path": "Face Paint Template [REMOVE_ME]\/Swan\/swan.png"
-                },
-                {
-                    "id": "19",
-                    "path": "Face Paint Template [REMOVE_ME]\/Swan\/swan_cheeks.png"
-                },
-                {
-                    "id": "20",
-                    "path": "Face Paint Template [REMOVE_ME]\/Swan\/swan_eye_color.png"
-                },
-                {
-                    "id": "21",
-                    "path": "Face Paint Template [REMOVE_ME]\/Swan\/swan_lips.png"
-                },
-                {
-                    "id": "30",
-                    "path": "Face Paint Template [REMOVE_ME]\/Koi\/koi.png"
-                },
-                {
-                    "id": "31",
-                    "path": "Face Paint Template [REMOVE_ME]\/Koi\/koi_lips.png"
-                },
-                {
-                    "id": "34",
-                    "path": "Face Paint Template [REMOVE_ME]\/Flower\/flowers.png"
-                },
-                {
-                    "id": "40",
-                    "path": "Face Paint Template [REMOVE_ME]\/Flower\/flower_cheeks.png"
-                },
-                {
-                    "id": "41",
-                    "path": "Face Paint Template [REMOVE_ME]\/Flower\/flower_lips.png"
-                },
-                {
-                    "id": "47",
-                    "path": "Face Paint Template [REMOVE_ME]\/Bird\/bird.png"
-                },
-                {
-                    "id": "51",
-                    "path": "Face Paint Template [REMOVE_ME]\/Bird\/bird_cheeks.png"
-                },
-                {
-                    "id": "52",
-                    "path": "Face Paint Template [REMOVE_ME]\/Bird\/bird_lips_1.png"
-                },
-                {
-                    "id": "53",
-                    "path": "Face Paint Template [REMOVE_ME]\/Bird\/bird_lips_2.png"
-                },
-                {
-                    "id": "62",
-                    "path": "Face Paint Template [REMOVE_ME]\/Dripping\/dripping.png"
-                },
-                {
-                    "id": "63",
-                    "path": "Face Paint Template [REMOVE_ME]\/Dripping\/dripping_lips.png"
-                },
-                {
-                    "id": "64",
-                    "path": "Face Paint Template [REMOVE_ME]\/Dripping\/dripping_cheeks.png"
-                },
-                {
-                    "id": "72",
-                    "path": "Face Paint Template [REMOVE_ME]\/Paint\/paint_lips.png"
-                },
-                {
-                    "id": "129",
-                    "path": "Face Paint Template [REMOVE_ME]\/Koi\/koi_cheeks.png"
-                },
-                {
                     "id": "137",
                     "path": "Textures\/Face Substitution Points\/Eye.png"
                 },
@@ -1106,10 +789,6 @@
                 {
                     "id": "221",
                     "path": "Default Textures\/Base.png"
-                },
-                {
-                    "id": "222",
-                    "path": "Scripts\/Script_2.js"
                 },
                 {
                     "id": "224",
@@ -1134,38 +813,16 @@
                 {
                     "id": "250",
                     "path": "Meshes\/Box.mesh"
+                },
+                {
+                    "id": "269",
+                    "path": "Scripts\/hintController.js"
+                },
+                {
+                    "id": "272",
+                    "path": "Scripts\/init.js"
                 }
             ]
-        },
-        "InspectorController": {
-            "selection": {
-                "objects": [
-                    "1548092279856906:145295"
-                ]
-            }
-        },
-        "EffectsController": {
-            "1": "",
-            "2": "",
-            "3": "",
-            "4": "",
-            "5": "",
-            "6": "",
-            "7": "",
-            "8": "",
-            "10": "",
-            "11": "",
-            "12": "",
-            "13": "",
-            "14": "",
-            "15": "",
-            "16": ""
-        },
-        "ObjectPrefabController": {
-            "state": {
-                "objectToInfo": ""
-            },
-            "importInfo": ""
         }
     }
 }
